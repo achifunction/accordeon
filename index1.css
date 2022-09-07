@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+body {
+  background:  #6463E7;
+  height: 768px;
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.maineconteiner {
+  height: 509px;
+  width: 920px;
+  left: 0px;
+  top: 0px;
+  border-radius: 23px;
+  background: rgba(255, 255, 255, 1);
+  display:flex;
+  align-items: center;
+}
+span{
+  display: block;
+}
+.span {
+  display: block;
+  font-family: "Kumbh Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4b4c5f;
+  display: block;
+  margin-left: 30px;
+
+
+}
+.span1 {
+  font-family: "Kumbh Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  display: block;
+  color: #1e1f36;
+  cursor: pointer;
+
+}
+.FAQ {
+  font-family: "Kumbh Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  color: #1e1f36;
+  margin: 0;
+  padding: 65px 0px 0px 65px;
+ 
+}
+.text{
+  display: none;
+  
+  
+} 
+.ulbox{
+  width: 445px;
+}
+hr{
+height: 1px;
+width: 350px;
+border: none;
+background: rgba(232, 232, 234, 1);
+
+}
+#women{
+  margin-left: -74px;
+  margin-top: 41px;
+}
+li{
+  display: block;
+}
+.section1{
+  height: 509px;
+  width: 470px;
+}
+#shadow{
+  position: absolute;
+    top: -183px;
+    left: -307px;
+}
+.mailbox{
+  position: absolute;
+  left: 169px;
+
+}
+.smallpanel{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  
+
+}
+.smallpanel-activ{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+
+
+}
+.arrow{
+  margin-right: 25px;
+
+}
+.arrow-activ{
+  margin-right: 25px;
+  transform: rotate(180deg);
+}
